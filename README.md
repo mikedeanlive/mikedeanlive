@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikedeanlive
+- 👋 Hi, I’m Mike Dean
 - 👀 I’m interested in Crypto and Software Development
 - 🌱 I’m currently learning too many things 
 - 📫 How to reach me on [Twitter](https://twitter.com/MikeDeanLive) 
